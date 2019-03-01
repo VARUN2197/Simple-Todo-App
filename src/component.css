@@ -1,0 +1,30 @@
+.todolist {
+  display:block;
+  text-align : center;
+  border-style: solid;
+  width: 30%;
+}
+
+.center {
+  margin: auto;
+  padding: 10px;
+}
+
+.todoform {
+	margin-bottom : 30px;
+}
+
+.todoform button{
+	background-color: green;
+	margin-left : 10px;
+	border-style : solid;
+}
+
+.todoform input{
+	border-style : solid;
+}
+
+.todolistitem{
+  display: block;
+	padding:5px;
+}
